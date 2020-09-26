@@ -105,8 +105,8 @@ transition: all 0.2s ease;
     height: 300px;
 }
 .viajes:hover{
-    transform: scale(30px);
-    transition: cubic-bezier(0.785, 0.135, 0.15, 0.86);
+    transform: scale(1.1) ;
+    transition: all 0.2s ease;
 }
 /* FIN SECTION*/
 
