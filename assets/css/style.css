@@ -1,0 +1,51 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body {
+    text-align: center;
+    width: 100%;
+    margin: 0px;
+    font-family: 'Roboto Slab', serif;
+    }
+    
+    body *{
+        margin: 0;
+        padding: 0;
+        border: 0;
+    }
+    
+       
+/* INICIO NAVEGACION*/
+
+.fondo-navbar {
+    background-color:#ff941b;
+}
+
+.threed:hover
+{
+box-shadow:
+1px 1px #ff6d00,
+2px 2px #ff6d00,
+3px 3px #ff6d00;
+-webkit-transform: translateX(-10px);
+transform: translateX(-10px);
+transition: all 0.2s ease;
+}
+
+.logo{
+ width: 200px;
+}
+.trece {
+    width: 100px;
+}
+/* FINAL NAVEGACION*/
+
+.carousel-item{
+    height: 630px;
+}
+
+.eliana{
+    text-align: center;
+    width: 130%;
+}
