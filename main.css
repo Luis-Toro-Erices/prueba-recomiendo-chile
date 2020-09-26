@@ -1,0 +1,36 @@
+.social-bar{
+    position: fixed;
+    left: 0;
+    top: 35%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    z-index: 100;
+    font: 1.5rem;
+}
+       
+.icon{
+    color: white;
+    text-decoration: none;
+    padding: .7rem;
+    display: flex;
+    transition: all .5s;
+}
+
+.icon-facebook{
+    background: #2e406e;
+    border-radius: 1rem 0 0 0;
+}
+
+.icon-twitter{
+    background: #339dc5;
+}
+
+.icon-youtube{
+    background: #e83028;
+}
+
+.icon-instagram{
+    background: #3f60a5;
+    border-radius: 1rem 0 0 0;
+}
