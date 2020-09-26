@@ -127,7 +127,7 @@ footer{
 
  @media (min-width: 300px) {
     .carousel-item{
-        height: 250px;
+        height: 300px;
     }
     .sombra, .blanco{
         font-size: 20px;
